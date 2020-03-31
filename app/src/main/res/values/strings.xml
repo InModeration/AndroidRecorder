@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recorder</string>
+    <string name="audio_record">录音</string>
+    <string name="record_state">录音状态</string>
+</resources>
